@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">变色龙</string>
+    <string name="buttonText" >变颜色</string>
+    <string name="redText">红色：？</string>
+    <string name="greenText">绿色：？</string>
+    <string name="blueText">蓝色：？</string>
+</resources>
