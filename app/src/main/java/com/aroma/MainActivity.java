@@ -29,11 +29,11 @@ public class MainActivity extends AppCompatActivity {
         red.setTextColor(Color.rgb(redNum,0,0));
 
         int greenNum = x.nextInt(256);
-        green.setText("蓝色："+greenNum);
+        green.setText("绿色："+greenNum);
         green.setTextColor(Color.rgb(0,greenNum,0));
 
         int blueNum = x.nextInt(256);
-        blue.setText("红色："+blueNum);
+        blue.setText("蓝色："+blueNum);
         blue.setTextColor(Color.rgb(0,0,blueNum));
         colorBar.setBackgroundColor(Color.rgb(redNum,greenNum,blueNum));
     }
